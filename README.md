@@ -66,20 +66,8 @@ Installing on **Windows:**
 
 ## Screenshots 📸
 
-To add screenshots to your GitHub repository:
-
-1. **Create a folder** named `screenshots` in the root directory of your repository.
-
-2. **Add your images** (e.g., `screenshot1.png`, `screenshot2.png`) to this folder.
-
-3. **Reference images in README.md** using Markdown syntax:
-
-
 ![Add Task](Screenshots/screenshot1.png)
 ![Mark as Done](Screenshots/screenshot2.png)
-
-
-*Ensure the image files are committed to your repository so they are accessible.*
 
 ---
 
