@@ -71,12 +71,6 @@ Installing on **Windows:**
 
 ---
 
-## Testing Environment 🧪
-
-*This application has been tested on Linux systems only.*
-
----
-
 © Shahriar Sargo
 
 ---
