@@ -75,8 +75,8 @@ To add screenshots to your GitHub repository:
 3. **Reference images in README.md** using Markdown syntax:
 
 
-![Add Task](screenshots/screenshot1.png)
-![Mark as Done](screenshots/screenshot2.png)
+![Add Task](Screenshots/screenshot1.png)
+![Mark as Done](Screenshots/screenshot2.png)
 
 
 *Ensure the image files are committed to your repository so they are accessible.*
