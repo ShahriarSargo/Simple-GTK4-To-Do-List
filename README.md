@@ -22,18 +22,19 @@ A simple, cross-platform To-Do List application built with Python and GTK 4. All
 
 To run the application, ensure the following dependencies are installed:
 
-#### ✅ Debian / Ubuntu
+#### Debian / Ubuntu
 
 
 sudo apt install -y python3-gi python3-gi-cairo gir1.2-gtk-4.0
 
-#### ✅ Fedora / RHEL / CentOS
+#### Fedora / RHEL / CentOS
 
 sudo dnf install python3-gobject gtk4
 
-#### ✅ Arch Linux / CachyOS / Manjaro / EndeavourOS / Garuda
+#### Arch Linux / CachyOS / Manjaro / EndeavourOS / Garuda
 
 sudo pacman -Syu --needed python-gobject gtk4
+
 ---
 
 ## Usage 🚀
@@ -41,7 +42,10 @@ sudo pacman -Syu --needed python-gobject gtk4
 1. **Linux:**
    Download or clone the repository, unzip it if needed, and run the binary.
 2. **Windows:**
-   Build it yourself.
+   Install Python 3.x from python.org
+   Install GTK 4 runtime via MSYS2 (for PyGObject).
+   Run the app:
+   python todo.py
 
 2. **Add a task:** Click the **+** button → enter the task name → click **Add**.
 
@@ -57,10 +61,8 @@ sudo pacman -Syu --needed python-gobject gtk4
 
 * **tasks.txt** stores tasks with their status and creation time:
 
-```
 False|Buy groceries|2025-08-21 12:00:00
 True|Finish homework|2025-08-21 12:30:00
-```
 
 ---
 
@@ -74,10 +76,10 @@ To add screenshots to your GitHub repository:
 
 3. **Reference images in README.md** using Markdown syntax:
 
-```markdown
+
 ![Add Task](screenshots/screenshot1.png)
 ![Mark as Done](screenshots/screenshot2.png)
-```
+
 
 *Ensure the image files are committed to your repository so they are accessible.*
 
@@ -89,6 +91,6 @@ To add screenshots to your GitHub repository:
 
 ---
 
-**Author:** Shahriar Sargo
+© Shahriar Sargo
 
 ---
