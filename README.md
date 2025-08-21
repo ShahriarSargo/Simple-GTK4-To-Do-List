@@ -2,7 +2,7 @@
 
 # To-Do List App (GUI) 📝
 
-A simple, cross-platform To-Do List application built with Python and GTK 4. Allows you to manage tasks, mark them as done, and store task creation dates.
+A simple To-Do List application built with Python and GTK 4. Allows you to manage tasks, mark them as done, and store task creation dates.
 
 ---
 
